@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9CA15CE1243BD55000028BF8 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA15CE0243BD55000028BF8 /* CustomTableViewCell.swift */; };
 		9CBFE088243A8F9900E2855E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBFE087243A8F9900E2855E /* AppDelegate.swift */; };
 		9CBFE08A243A8F9900E2855E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBFE089243A8F9900E2855E /* SceneDelegate.swift */; };
 		9CBFE08C243A8F9900E2855E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBFE08B243A8F9900E2855E /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9CA15CE0243BD55000028BF8 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		9CBFE084243A8F9900E2855E /* MyPlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CBFE087243A8F9900E2855E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9CBFE089243A8F9900E2855E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				9CBFE090243A8F9A00E2855E /* Assets.xcassets */,
 				9CBFE092243A8F9A00E2855E /* LaunchScreen.storyboard */,
 				9CBFE095243A8F9A00E2855E /* Info.plist */,
+				9CA15CE0243BD55000028BF8 /* CustomTableViewCell.swift */,
 			);
 			path = MyPlaces;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				9CBFE08C243A8F9900E2855E /* ViewController.swift in Sources */,
 				9CBFE088243A8F9900E2855E /* AppDelegate.swift in Sources */,
+				9CA15CE1243BD55000028BF8 /* CustomTableViewCell.swift in Sources */,
 				9CBFE08A243A8F9900E2855E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
